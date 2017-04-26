@@ -14,3 +14,44 @@
   margin-top: 5rem;
   font-size: 20px;
 }
+
+#nav{
+  position: fixed;
+  top: 0;
+  right: 25px;
+}
+
+#nav ul{
+  list-style: none;
+  float: right;
+}
+
+#nav ul li{
+  display: inline;
+  margin-left: 25px;
+}
+
+#footer{
+  width: 100%;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  border-top: 2px solid DarkGrey;
+  background-color: LightGrey;
+}
+
+#footer ul li{
+  display: inline;
+  margin-top: 5px;
+  margin-right: 25px;
+  margin-bottom: 25px;
+  font-family: Arial, sans-serif;
+}
+
+.left{
+  float: left;
+}
+
+.right{
+  float: right;
+}
