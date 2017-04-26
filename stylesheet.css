@@ -5,3 +5,12 @@
   margin: 0 auto;
   margin-top: 15rem;
 }
+
+.searchbar{
+  height: 30px;
+  width: 550px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 5rem;
+  font-size: 20px;
+}
